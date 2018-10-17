@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+
+<question type="truefalse">
+	<name>
+		<text>Etes vous humain ?</text>
+	</name>
+
+ 	<answer fraction="1">
+    	<text>true</text>
+    	<feedback><text>Cool</text></feedback>
+ 	</answer>
+ 	<answer fraction="0">
+    	<text>false</text>
+    	<feedback><text>Pas cool</text></feedback>
+ 	</answer>
+ 	
+	<name>
+		<text>Etes vous beau ?</text>
+	</name>
+
+ 	<answer fraction="1">
+    	<text>true</text>
+    	<feedback><text>Cool</text></feedback>
+ 	</answer>
+ 	<answer fraction="0">
+    	<text>false</text>
+    	<feedback><text>Pas cool</text></feedback>
+ 	</answer>
+</question>
